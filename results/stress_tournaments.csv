@@ -1,0 +1,44 @@
+field,kind,label,model,base,guard,score,seed11,seed12
+cooperative,script,Tit for two tats,,,0,4.7834,4.6967,4.8702
+cooperative,script,Forgiving rate tracker,,,0,4.7751,4.7209,4.8293
+cooperative,script,Retaliate after 3-in-a-row,,,0,4.7522,4.6516,4.8528
+cooperative,script,Unprompted-defection counter,,,0,4.7358,4.6402,4.8314
+cooperative,model,PrisonerAI500K (control GRU16 + rule),PrisonerAI500K,Control GRU16,1,4.7320,4.7130,4.7510
+cooperative,script,Grim after 2-in-a-row,,,0,4.7137,4.5882,4.8392
+cooperative,script,TF2T then grim,,,0,4.6974,4.6575,4.7373
+cooperative,script,Grim after 2-of-3,,,0,4.6803,4.6130,4.7476
+cooperative,script,Window punisher,,,0,4.6410,4.5944,4.6876
+cooperative,model,Diverse GRU16 + rule,Diverse GRU16,Diverse GRU16,1,4.6365,4.5498,4.7233
+cooperative,script,Escalating random retaliator,,,0,4.6092,4.6664,4.5519
+cooperative,model,Original GRU16 + rule,Original GRU16,Original GRU16,1,4.5189,4.4873,4.5506
+cooperative,script,Prober,,,0,4.5049,4.4012,4.6086
+cooperative,model,Control GRU16,Control GRU16,Control GRU16,0,4.4580,4.3990,4.5160
+cooperative,script,3-round punisher,,,0,4.3624,4.3106,4.4142
+cooperative,model,Diverse GRU16,Diverse GRU16,Diverse GRU16,0,4.2710,4.2150,4.3270
+cooperative,model,Policy-improvement GRU16 + rule,Policy-improvement GRU16,Policy-improvement GRU16,1,4.2237,4.1498,4.2976
+cooperative,script,Tit for Tat,,,0,4.1399,4.0511,4.2287
+cooperative,script,Unprompted-only punisher,,,0,4.1068,4.0901,4.1234
+cooperative,model,Self-play GRU16 + rule,Self-play GRU16,Self-play GRU16,1,4.0631,3.9926,4.1336
+cooperative,model,Policy-improvement GRU16,Policy-improvement GRU16,Policy-improvement GRU16,0,4.0320,4.0010,4.0630
+cooperative,model,Original GRU16,Original GRU16,Original GRU16,0,3.9318,3.9255,3.9381
+cooperative,model,Self-play GRU16,Self-play GRU16,Self-play GRU16,0,3.7285,3.7027,3.7543
+cooperative,script,Grim trigger,,,0,3.1982,3.1968,3.1996
+cooperative,script,Conditional defector,,,0,2.5009,2.4777,2.5241
+hostile,model,Original GRU16,Original GRU16,Original GRU16,0,4.7692,4.7807,4.7577
+hostile,script,Grim trigger,,,0,4.6982,4.7374,4.6590
+hostile,script,Always Defect,,,0,4.6810,4.7083,4.6538
+hostile,model,Control GRU16,Control GRU16,Control GRU16,0,4.6469,4.6959,4.5979
+hostile,model,Policy-improvement GRU16,Policy-improvement GRU16,Policy-improvement GRU16,0,4.6100,4.6227,4.5973
+hostile,model,Diverse GRU16,Diverse GRU16,Diverse GRU16,0,4.5269,4.5185,4.5352
+hostile,model,Original GRU16 + rule,Original GRU16,Original GRU16,1,4.4372,4.4614,4.4131
+hostile,script,Tit for Tat,,,0,4.4191,4.4783,4.3599
+hostile,model,PrisonerAI500K (control GRU16 + rule),PrisonerAI500K,Control GRU16,1,4.3922,4.4348,4.3495
+hostile,model,Policy-improvement GRU16 + rule,Policy-improvement GRU16,Policy-improvement GRU16,1,4.3802,4.3829,4.3775
+hostile,model,Diverse GRU16 + rule,Diverse GRU16,Diverse GRU16,1,4.3015,4.3003,4.3028
+hostile,script,Tit for two tats,,,0,4.2868,4.2959,4.2778
+hostile,script,Endgame defector,,,0,4.0661,4.0886,4.0436
+hostile,script,Random,,,0,3.9931,4.0266,3.9596
+hostile,script,Sneaky 1-in-7,,,0,3.9645,3.9510,3.9781
+hostile,script,Conditional defector,,,0,3.9372,3.9340,3.9404
+hostile,script,Probe and exploit,,,0,3.9030,3.8906,3.9154
+hostile,script,Always Cooperate,,,0,3.8651,3.8748,3.8553

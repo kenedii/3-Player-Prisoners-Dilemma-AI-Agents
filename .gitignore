@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+training_data/
+large_experiments/
+model_experiments/
+campaigns/
+robustness_check/
+results/tournament_runs.jsonl
+.venv/

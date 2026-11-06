@@ -1,0 +1,7 @@
+# Inference (models/gru_agent.py, evaluation/) needs only the Python standard library.
+# Training and figures:
+numpy>=1.26,<3
+torch>=2.7            # install a CUDA build for GPU training
+scikit-learn>=1.4,<2  # linear / tree baselines
+psutil>=5.9           # resource logging during training
+matplotlib>=3.8       # scripts/make_figures.py
